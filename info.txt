@@ -1,0 +1,13 @@
+Who is moodiest?
+
+Who is highest sentiment?
+
+Who is lowest sentiment?
+
+
+https://en.wikipedia.org/wiki/Sentiment_analysis
+https://www.cs.uic.edu/~liub/FBS/NLP-handbook-sentiment-analysis.pdf
+
+high polarity tends to indicate 'positive' language
+
+high subjectivity

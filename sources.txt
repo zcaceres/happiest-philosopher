@@ -1,0 +1,95 @@
+Philosophers:
+
+Aristotle
+Poetics
+Politics
+Ethics
+
+Plato
+Republic
+Apology
+Symposium
+
+Nietzsche
+Beyond Good and Evil
+The Antichrist
+Thus Spoke Zarathustra
+
+Russell
+Problems of Philosophy
+The Analysis of Mind
+Mysticism and Logic and Other Essays
+
+Bacon
+New Atlantis
+Essays or Counsels, Civil and Moral
+The Advancement of Learning
+
+Spinoza [done]
+Ethica
+Theologico-Political Treatise
+On the Improvement of the Understanding
+
+Confucius [done]
+Analects
+
+Hume [done]
+Treatise of Human Nature
+Enquiry Concerning Human Understanding
+Enquiry Concerning the Principles of Morals
+
+Bergson [done]
+Laughter
+Dreams
+Creative Evolution
+
+Thoreau [done]
+Walden
+On Civil Disobedience
+Walking
+
+Kant [done]
+Critique of Pure Reason
+Fundamental Principles of the Metaphysics of Morals
+
+Rousseau [done]
+Social Contract
+Discourses
+Emile
+
+Mill [done]
+On Liberty
+Utilitarianism
+Considerations on Representative Government
+
+Marx [done]
+Communist Manifesto
+Contribution to the Critique of the Political Economy
+
+Lao-Tze [done]
+The Tao and its Characteristics
+
+Montaigne [done]
+Essays
+
+Emerson [done]
+Essays
+Nature
+Representative Men
+
+Machiavelli [done]
+The Prince
+
+Descartes [done]
+Discourses
+
+Aquinas [done]
+All of the Summa Theologica
+
+James [done]
+Varieties of Religious Experience
+Pragmatism
+The Will to Believe and Other Essays in Popular Philosophy
+
+Hobbes [done]
+Leviathan
