@@ -1,0 +1,3 @@
+[run]
+source = pyramid_happiestphilosopher
+omit = pyramid_happiestphilosopher/test*

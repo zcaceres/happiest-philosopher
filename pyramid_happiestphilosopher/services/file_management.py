@@ -1,4 +1,4 @@
-PATH_TO_PHILOSOPHERS = "/Users/zachcaceres/PycharmProjects/happiest-philosopher/philosophers"
+PATH_TO_PHILOSOPHERS = "/Users/zachcaceres/PycharmProjects/pyramid-happiestphilosopher/pyramid_happiestphilosopher/services/philosophers"
 RELATIVE_PATH_TO_FILES = "philosophers"
 import os
 

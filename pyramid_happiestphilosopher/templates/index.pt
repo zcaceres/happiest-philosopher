@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Happiest Philosopher by Zachary Caceres">
+    <meta name="author" content="The Happiest Philosopher by Zachary Caceres">
+    <!-- <link rel="shortcut icon" href="${request.static_url('pyramid_happiestphilosopher:static/pyramid-16x16.png')}"> -->
+
+    <title>The Happiest Philosopher</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="//oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this scaffold -->
+    <link href="${request.static_url('pyramid_happiestphilosopher:static/css/theme.css')}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+      <div class="container">
+        <div class="row new-row">
+          <div class="col-md-4">
+            <img class="logo img-responsive" src="${request.static_url('pyramid_happiestphilosopher:static/nietzsche.jpeg')}" alt="pyramid web framework">
+          </div>
+          <div class="col-md-8">
+              <h1 class="vertical-center"><span class="smaller">Who is the </span><span class="font-semi-bold">happiest philosopher?</span></h1>
+              <p class="lead">Let's find out with <span class="font-normal">sentiment analysis</span> and Python.</p>
+          </div>
+        </div>
+        <br>
+        <div class="row new-row">
+          <div class="col-md-8">
+            <h1><span class="smaller">What's <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" target="_blank">sentiment analysis</a>?</span></h1>
+            <h3>Sentiment analysis is a way of processing text to understand the attitude and emotions of a writer.</h3>
+            <p class="lead">
+              There are two main ways to analyze a document for sentiment. The first measures a negative, positive, or neutral attitude.
+              This is called the <span class="font-bold">polarity</span> of a text.
+            </p>
+            <p class="lead">
+              The second looks at the language to see whether the writer use an objective or subjective tone. This is called the <span class="font-bold">subjectivity</span> of a text.
+            </p>
+            <p>If you want to learn more about sentiment analysis, <a href="https://www.cs.uic.edu/~liub/FBS/NLP-handbook-sentiment-analysis.pdf" target="_blank">read this</a>.</p>
+          </div>
+          <div class="col-md-4">
+            <img class="logo img-responsive" src="${request.static_url('pyramid_happiestphilosopher:static/hesse.jpeg')}" alt="pyramid web framework">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h1><span class="smaller">51 works from </span>23 of the <span class="font-semi-bold">greatest philosophers in history</span></h1>
+            <h4> Here they are: </h4>
+          </div>
+        </div>
+          <div class="row new-row">
+            <div class="col-md-6">
+            <ul class="list-group">
+              <li class="list-group-item">
+                Aristotle:
+                Poetics,
+                Politics,
+                Ethics
+              </li>
+              <li class="list-group-item">
+                Plato:
+                Republic,
+                Apology,
+                Symposium,
+              </li>
+              <li class="list-group-item">
+                Nietzsche:
+                Beyond Good and Evil,
+                The Antichrist,
+                Thus Spoke Zarathustra
+              </li>
+              <li class="list-group-item">
+                Bertrand Russell:
+                Problems of Philosophy,
+                The Analysis of Mind,
+                Mysticism and Logic and Other Essays
+              </li>
+              <li class="list-group-item">
+                Bacon:
+                New Atlantis,
+                Essays or Counsels – Civil and Moral,
+                The Advancement of Learning
+              </li>
+              <li class="list-group-item">
+                Spinoza:
+                Ethica,
+                Theologico-Political Treatise,
+                On the Improvement of the Understanding
+              </li>
+              <li class="list-group-item">
+                Confucius:
+                Analects
+              </li>
+              <li class="list-group-item">
+                Hobbes:
+                Leviathan
+              </li>
+              <li class="list-group-item">
+                Hume:
+                Treatise of Human Nature,
+                Enquiry Concerning Human Understanding,
+                Enquiry Concerning the Principles of Morals
+              </li>
+              <li class="list-group-item">
+                Bergson:
+                Laughter,
+                Dreams,
+                Creative Evolution
+              </li>
+              <li class="list-group-item">
+                Thoreau:
+                Walden,
+                On Civil Disobedience,
+                Walking
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <ul class="list-group">
+              <li class="list-group-item">
+                Mill:
+                On Liberty,
+                Utilitarianism,
+                Considerations on Representative Government
+              </li>
+              <li class="list-group-item">
+                Marx:
+                Communist Manifesto,
+                Contribution to the Critique of the Political Economy
+              </li>
+              <li class="list-group-item">
+                Lao-Tze:
+                The Tao and its Characteristics
+              </li>
+              <li class="list-group-item">
+                Montaigne:
+                Essays
+              </li>
+              <li class="list-group-item">
+                Emerson:
+                Essays,
+                Nature,
+                Representative Men
+              </li>
+              <li class="list-group-item">
+                Machiavelli:
+                The Prince
+              </li>
+              <li class="list-group-item">
+                Descartes:
+                Discourses
+              </li>
+              <li class="list-group-item">
+                Aquinas:
+                Summa Theologica I &amp; II
+              </li>
+              <li class="list-group-item">
+                James:
+                Varieties of Religious Experience,
+                Pragmatism,
+                The Will to Believe and Other Essays in Popular Philosophy
+              </li>
+              <li class="list-group-item">
+                Kant:
+                Critique of Pure Reason,
+                Fundamental Principles of the Metaphysics of Morals
+              </li>
+              <li class="list-group-item">
+                Rousseau:
+                Social Contract,
+                Discourses,
+                Emile
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="row new-row">
+          <div class="col-md-8">
+          <h3> Analysis: </h3>
+          <p class="lead">
+            <a href="https://textblob.readthedocs.io/en/dev/" target="_blank">Textblob</a> and <a href="http://www.numpy.org/" target="_blank">Numpy</a> to analyze the text as raw .txt files from <a href="http://www.gutenberg.org/wiki/Main_Page" target="_blank">Project Gutenberg</a>.
+          </p>
+          <p class="lead">
+            Text not written by the author was scrubbed including introductions, translator's notes, prefaces, and indices prepared by others.
+            Then, the data was sent using <a href="https://plot.ly/" target="_blank"> Plot.ly</a>'s awesome graphing API to generate the graphs.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <img class="logo img-responsive" src="${request.static_url('pyramid_happiestphilosopher:static/python-screen.png')}" alt="pyramid web framework">
+        </div>
+      </div>
+      <hr>
+        <div class="row new-row">
+          <div class="col-md-12">
+            <div class="text-center embed-responsive embed-responsive-4by3">
+              <h1> The Happiest Philosopher is... </h1>
+            <iframe class="embed-responsive-item" width="100%" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~zcaceres/4.embed"></iframe>
+              <h3>High polarity indicates a "positive affective state" by the writer.</h3>
+              <p class="lead">In this case, Plato's <span class="font-semi-bold">Symposium</span> is the clear winner.</p>
+              <p class="lead"> The most neutral (least-polarized)? Arch-rationalist Bertrand Russell's <span class="font-semi-bold">The Analysis of Mind</span></p>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="row new-row">
+            <div class="col-md-12">
+              <div class="text-center embed-responsive embed-responsive-16by9">
+                <h1> The Most Objective Philosopher is... </h1>
+                <iframe class="embed-responsive-item" width="100%" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~zcaceres/6.embed"></iframe>
+                <h3>The subjectivity ranking of a text indicates how much subjective or objective language the author uses.</h3>
+                <p class="lead">Plato's <span class="font-semi-bold">Apology of Socrates</span> is the clear winner. Sort of makes sense for one giant suicide note.</p>
+                <p class="lead"> The most objective? Karl Marx's <span class="font-semi-bold">Communist Manifesto</span>. No doubt Marx's ability
+                to phrase his own views as the absolute truth has made the <em>Manifesto</em> one of the most influential documents ever written.</p>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-md-12">
+          <div class="copyright text-center">
+            <p>
+            Made by Zach Caceres for <a href="#" target="_blank">Python-a-thon 2016</a> |
+            Awesome philosopher watercolors by <a href="http://superlautir.deviantart.com/art/FRIEDRICH-NIETZSCHE-watercolor-portrait-357091853" target="_blank">Superlautir</a>
+          </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//oss.maxcdn.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -2,8 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bad88d4-0b5a-47cd-8fa4-14934c079759" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/happiest-philosopher.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyramid_happiestphilosopher/static/hesse.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyramid_happiestphilosopher/static/nietzsche.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyramid_happiestphilosopher/static/python-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyramid_happiestphilosopher/static/schopenhauer.jpeg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TODO.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file_management.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/graphs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/info.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/aquinas/summa-theologica-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/aquinas/summa-theologica-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/aristotle/ethics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/aristotle/poetics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/aristotle/politics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bacon/advancement-of-learning.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bacon/essays-or-counsels.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bacon/new-atlantis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bergson/creative-evolution.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bergson/dreams.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/bergson/laughter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/camus/the-fall.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/confucius/analects.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/descartes/discourses.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/emerson/essays.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/emerson/nature.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/emerson/representative-men.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/hobbes/leviathan.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/hume/enquiry-concerning-human-understanding.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/hume/enquiry-concerning-principles-of-morals.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/hume/treatise-of-human-nature.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/james/pragmatism.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/james/varieties-of-religious-experience.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/james/will-to-believe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/kant/critique-of-pure-reason.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/kant/fundamental-principles-of-the-metaphysics-of-morals.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/lao-tze/tao.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/machiavelli/prince.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/marx/a-contribution-to-the-critique-of-political-economy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/marx/communist-manifesto.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/mill/considerations-on-representative-government.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/mill/on-liberty.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/mill/utilitarianism.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/montaigne/essays.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/nietzsche/beyond-good-and-evil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/nietzsche/the-antichrist.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/nietzsche/thus-spoke-zarathustra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/plato/apology.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/plato/republic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/plato/symposium.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/rousseau/confessions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/rousseau/emile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/rousseau/social-contract-and-discourses.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/russell/mysticism-log-and-other-essays.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/russell/problems-of-philosophy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/russell/the-analysis-of-mind.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/spinoza/ethica.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/spinoza/on-the-improvement-of-the-understanding.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/spinoza/theologico-political-treatise.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/thoreau/walden-and-civil-disobedience.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/philosophers/thoreau/walking.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sources.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/walden.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/happiest-philosopher.iml" afterPath="$PROJECT_DIR$/.idea/happiest-philosopher.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TextAnalysis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +86,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="file_management.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file_management.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/graphs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sources.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/sources.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_management.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/file_management.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,12 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/bergson/dreams.txt" />
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/bergson/laughter.txt" />
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/confucius/analects.txt" />
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/descartes/discourses.txt" />
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/essays.txt" />
-        <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/nature.txt" />
         <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/representative-men.txt" />
         <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/hobbes/leviathan.txt" />
         <option value="$PROJECT_DIR$/../optimisticphilosopher/philosophers/hume/enquiry-concerning-human-understanding.txt" />
@@ -99,6 +232,12 @@
         <option value="$PROJECT_DIR$/../optimisticphilosopher/graphs.py" />
         <option value="$PROJECT_DIR$/../optimisticphilosopher/file_management.py" />
         <option value="$PROJECT_DIR$/file_management.py" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/__init__.py" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/static/css/main.css" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/static/css/theme.css" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/services/file_management.py" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/services/sources.txt" />
+        <option value="$PROJECT_DIR$/pyramid_happiestphilosopher/views.py" />
       </list>
     </option>
   </component>
@@ -147,7 +286,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="happiest-philosopher" />
+              <option name="myItemId" value="pyramid-happiestphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimisticphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyramid-happiestphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyramid_happiestphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimisticphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyramid-happiestphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyramid_happiestphilosopher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -174,18 +345,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pyramid_happiestphilosopher/static" />
+      <recent name="$PROJECT_DIR$/pyramid_happiestphilosopher/static/css" />
       <recent name="$PROJECT_DIR$/../optimisticphilosopher/philosophers/camus" />
       <recent name="$PROJECT_DIR$/../TextAnalysis" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.web-test">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/textblob/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -330,8 +503,26 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+    <configuration default="false" name="web-test" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/pyramid-textblob/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="happiest-philosopher" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/pyramid-textblob/bin/pserve" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/development.ini" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.web-test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -353,15 +544,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-288" width="1920" height="1200" extended-state="6" />
+    <frame x="1280" y="-288" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -391,21 +582,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/bergson/dreams.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/bergson/laughter.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/confucius/analects.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/descartes/discourses.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/essays.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/nature.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/emerson/representative-men.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/hobbes/leviathan.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/hume/enquiry-concerning-human-understanding.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/hume/enquiry-concerning-principles-of-morals.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/hume/treatise-of-human-nature.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/james/pragmatism.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/james/varieties-of-religious-experience.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/james/will-to-believe.txt" />
-    <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/kant/critique-of-pure-reason.txt" />
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/kant/fundamental-principles-of-the-metaphysics-of-morals.txt" />
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/lao-tze/tao.txt" />
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/philosophers/machiavelli/prince.txt" />
@@ -441,10 +617,120 @@
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/graphs.py" />
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/info.txt" />
     <entry file="file://$PROJECT_DIR$/../optimisticphilosopher/main.py" />
-    <entry file="file://$PROJECT_DIR$/file_management.py">
+    <entry file="file://$PROJECT_DIR$/file_management.py" />
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/static/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/static/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/walden.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/file_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/sources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/graphs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/services/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_happiestphilosopher/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
