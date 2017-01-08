@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="The Happiest Philosopher by Zachary Caceres">
-    <meta name="author" content="The Happiest Philosopher by Zachary Caceres">
+    <meta name="description" content="The Happiest Philosopher">
+    <meta name="author" content="Zachary Caceres for Python-a-thon 2016">
     <!-- <link rel="shortcut icon" href="${request.static_url('pyramid_happiestphilosopher:static/pyramid-16x16.png')}"> -->
 
     <title>The Happiest Philosopher</title>
@@ -34,17 +34,17 @@
               <p class="lead">Let's find out with <span class="font-normal">sentiment analysis</span> and Python.</p>
           </div>
         </div>
-        <br>
+        <hr>
         <div class="row new-row">
           <div class="col-md-8">
             <h1><span class="smaller">What's <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" target="_blank">sentiment analysis</a>?</span></h1>
-            <h3>Sentiment analysis is a way of processing text to understand the attitude and emotions of a writer.</h3>
+            <h4>Sentiment analysis is a way of processing text to understand the attitude and emotions of a writer.</h4>
             <p class="lead">
               There are two main ways to analyze a document for sentiment. The first measures a negative, positive, or neutral attitude.
               This is called the <span class="font-bold">polarity</span> of a text.
             </p>
             <p class="lead">
-              The second looks at the language to see whether the writer use an objective or subjective tone. This is called the <span class="font-bold">subjectivity</span> of a text.
+              The second method looks at language to see whether the writer used an objective or subjective tone. This is called the <span class="font-bold">subjectivity</span> of a text.
             </p>
             <p>If you want to learn more about sentiment analysis, <a href="https://www.cs.uic.edu/~liub/FBS/NLP-handbook-sentiment-analysis.pdf" target="_blank">read this</a>.</p>
           </div>
@@ -52,74 +52,74 @@
             <img class="logo img-responsive" src="${request.static_url('pyramid_happiestphilosopher:static/hesse.jpeg')}" alt="pyramid web framework">
           </div>
         </div>
-        <br>
+        <hr>
         <div class="row">
           <div class="col-md-12 text-center">
-            <h1><span class="smaller">51 works from </span>23 of the <span class="font-semi-bold">greatest philosophers in history</span></h1>
-            <h4> Here they are: </h4>
+            <h2>51 works from 23 of the <span class="font-semi-bold">greatest philosophers in history</span></h2>
+            <h3> Here they are: </h3>
           </div>
         </div>
           <div class="row new-row">
             <div class="col-md-6">
             <ul class="list-group">
               <li class="list-group-item">
-                Aristotle:
+                <span class="font-semi-bold">Aristotle:</span>
                 Poetics,
                 Politics,
                 Ethics
               </li>
               <li class="list-group-item">
-                Plato:
+                <span class="font-semi-bold">Plato:</span>
                 Republic,
                 Apology,
                 Symposium,
               </li>
               <li class="list-group-item">
-                Nietzsche:
+                <span class="font-semi-bold">Nietzsche:</span>
                 Beyond Good and Evil,
                 The Antichrist,
                 Thus Spoke Zarathustra
               </li>
               <li class="list-group-item">
-                Bertrand Russell:
+                <span class="font-semi-bold">Bertrand Russell:</span>
                 Problems of Philosophy,
                 The Analysis of Mind,
                 Mysticism and Logic and Other Essays
               </li>
               <li class="list-group-item">
-                Bacon:
+                <span class="font-semi-bold">Bacon:</span>
                 New Atlantis,
                 Essays or Counsels – Civil and Moral,
                 The Advancement of Learning
               </li>
               <li class="list-group-item">
-                Spinoza:
+                <span class="font-semi-bold">Spinoza:</span>
                 Ethica,
                 Theologico-Political Treatise,
                 On the Improvement of the Understanding
               </li>
               <li class="list-group-item">
-                Confucius:
+                <span class="font-semi-bold">Confucius:</span>
                 Analects
               </li>
               <li class="list-group-item">
-                Hobbes:
+                <span class="font-semi-bold">Hobbes:</span>
                 Leviathan
               </li>
               <li class="list-group-item">
-                Hume:
+                <span class="font-semi-bold">Hume:</span>
                 Treatise of Human Nature,
                 Enquiry Concerning Human Understanding,
                 Enquiry Concerning the Principles of Morals
               </li>
               <li class="list-group-item">
-                Bergson:
+                <span class="font-semi-bold">Bergson:</span>
                 Laughter,
                 Dreams,
                 Creative Evolution
               </li>
               <li class="list-group-item">
-                Thoreau:
+                <span class="font-semi-bold">Thoreau:</span>
                 Walden,
                 On Civil Disobedience,
                 Walking
@@ -129,55 +129,55 @@
           <div class="col-md-6">
             <ul class="list-group">
               <li class="list-group-item">
-                Mill:
+                <span class="font-semi-bold">Mill:</span>
                 On Liberty,
                 Utilitarianism,
                 Considerations on Representative Government
               </li>
               <li class="list-group-item">
-                Marx:
+                <span class="font-semi-bold">Marx:</span>
                 Communist Manifesto,
                 Contribution to the Critique of the Political Economy
               </li>
               <li class="list-group-item">
-                Lao-Tze:
+                <span class="font-semi-bold">Lao-Tze:</span>
                 The Tao and its Characteristics
               </li>
               <li class="list-group-item">
-                Montaigne:
+                <span class="font-semi-bold">Montaigne:</span>
                 Essays
               </li>
               <li class="list-group-item">
-                Emerson:
+                <span class="font-semi-bold">Emerson:</span>
                 Essays,
                 Nature,
                 Representative Men
               </li>
               <li class="list-group-item">
-                Machiavelli:
+                <span class="font-semi-bold">Machiavelli:</span>
                 The Prince
               </li>
               <li class="list-group-item">
-                Descartes:
+                <span class="font-semi-bold">Descartes:</span>
                 Discourses
               </li>
               <li class="list-group-item">
-                Aquinas:
+                <span class="font-semi-bold">Aquinas:</span>
                 Summa Theologica I &amp; II
               </li>
               <li class="list-group-item">
-                James:
+                <span class="font-semi-bold">James:</span>
                 Varieties of Religious Experience,
                 Pragmatism,
                 The Will to Believe and Other Essays in Popular Philosophy
               </li>
               <li class="list-group-item">
-                Kant:
+                <span class="font-semi-bold">Kant:</span>
                 Critique of Pure Reason,
                 Fundamental Principles of the Metaphysics of Morals
               </li>
               <li class="list-group-item">
-                Rousseau:
+                <span class="font-semi-bold">Rousseau:</span>
                 Social Contract,
                 Discourses,
                 Emile
@@ -185,15 +185,16 @@
             </ul>
           </div>
         </div>
+        <hr>
         <div class="row new-row">
           <div class="col-md-8">
           <h3> Analysis: </h3>
           <p class="lead">
-            <a href="https://textblob.readthedocs.io/en/dev/" target="_blank">Textblob</a> and <a href="http://www.numpy.org/" target="_blank">Numpy</a> to analyze the text as raw .txt files from <a href="http://www.gutenberg.org/wiki/Main_Page" target="_blank">Project Gutenberg</a>.
+            Text was analyzed using <a href="https://textblob.readthedocs.io/en/dev/" target="_blank">Textblob</a> and <a href="http://www.numpy.org/" target="_blank">Numpy</a>. Raw .txt files were used from <a href="http://www.gutenberg.org/wiki/Main_Page" target="_blank">Project Gutenberg</a>.
           </p>
           <p class="lead">
             Text not written by the author was scrubbed including introductions, translator's notes, prefaces, and indices prepared by others.
-            Then, the data was sent using <a href="https://plot.ly/" target="_blank"> Plot.ly</a>'s awesome graphing API to generate the graphs.
+            Then, the data was sent using <a href="https://plot.ly/" target="_blank">Plot.ly</a>'s awesome graphing API to generate the graphs.
           </p>
         </div>
         <div class="col-md-4">
@@ -208,7 +209,7 @@
             <iframe class="embed-responsive-item" width="100%" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~zcaceres/4.embed"></iframe>
               <h3>High polarity indicates a "positive affective state" by the writer.</h3>
               <p class="lead">In this case, Plato's <span class="font-semi-bold">Symposium</span> is the clear winner.</p>
-              <p class="lead"> The most neutral (least-polarized)? Arch-rationalist Bertrand Russell's <span class="font-semi-bold">The Analysis of Mind</span></p>
+              <p class="lead"> The most neutral (least-polarized)? Arch rationalist Bertrand Russell's <span class="font-semi-bold">The Analysis of Mind.</span></p>
             </div>
           </div>
         </div>
@@ -219,7 +220,7 @@
                 <h1> The Most Objective Philosopher is... </h1>
                 <iframe class="embed-responsive-item" width="100%" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~zcaceres/6.embed"></iframe>
                 <h3>The subjectivity ranking of a text indicates how much subjective or objective language the author uses.</h3>
-                <p class="lead">Plato's <span class="font-semi-bold">Apology of Socrates</span> is the clear winner. Sort of makes sense for one giant suicide note.</p>
+                <p class="lead">Plato's <span class="font-semi-bold">Apology of Socrates</span> is the clear winner. This makes sense for a guy arguing for his life!</p>
                 <p class="lead"> The most objective? Karl Marx's <span class="font-semi-bold">Communist Manifesto</span>. No doubt Marx's ability
                 to phrase his own views as the absolute truth has made the <em>Manifesto</em> one of the most influential documents ever written.</p>
             </div>
@@ -230,9 +231,9 @@
           <div class="col-md-12">
           <div class="copyright text-center">
             <p>
-            Made by Zach Caceres for <a href="#" target="_blank">Python-a-thon 2016</a> |
-            Awesome philosopher watercolors by <a href="http://superlautir.deviantart.com/art/FRIEDRICH-NIETZSCHE-watercolor-portrait-357091853" target="_blank">Superlautir</a>
-          </p>
+            Made by Zach Caceres for <a href="www.pythonathon.com" target="_blank">Python-a-thon 2016</a> |
+            Awesome philosopher watercolors by <a href="http://superlautir.deviantart.com" target="_blank">Superlautir</a>
+            </p>
           </div>
         </div>
       </div>
