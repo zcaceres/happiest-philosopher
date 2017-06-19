@@ -15,3 +15,5 @@ your results graph, so name accordingly!
 
 3) Run main.py. You need a plotly account which will automatically generate a 
 graph and open your browser to show it to you at the end of the analyses.
+
+Built with: Python, TextBlob, Plot.ly, Pyramid
